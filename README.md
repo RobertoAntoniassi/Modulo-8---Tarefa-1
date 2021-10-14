@@ -1,9 +1,9 @@
 # Modulo-8---Tarefa-1
 
 **Tarefas Inclusas** 
-* Criar um repositório - **Link enviado para EBAC**
+* Criar um repositório - **Link enviado para os tutores**
 * Clonar os repositório para um local e clonar arquivos para o repositório no GitHub
-    * Comandos utilizados e pedidos na **Tarefa 2**;
+    * Comandos utilizados e pedidos na **Tarefa 2**, **print enviado para os tutores**  
         -git add
         -git config
         -git commit
